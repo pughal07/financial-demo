@@ -30,6 +30,7 @@
 - what's my account balance?
 - what's my account balance
 - What's my account balance?
+- whats my accountbalance?
 
 ## intent:check_earnings
 - How much money went into my account last month?
